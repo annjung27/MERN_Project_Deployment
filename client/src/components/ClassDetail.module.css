@@ -1,0 +1,30 @@
+.contentbox {
+    width: 100%;
+    padding: 30px 20px;
+    margin: 0 auto; 
+    text-align: center;    
+}
+
+.img {
+    width: 50%;    
+    border-radius: 10px;
+}
+
+.button {
+    border: none;
+    border-radius: 20px;
+    background-color: #3A3845;
+    color: white;
+    width: 130px;
+    height: 35px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.text {
+    width: 50%;
+    text-align: left;
+    margin: 20px auto;
+}
+
