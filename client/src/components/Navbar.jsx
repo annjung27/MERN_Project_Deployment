@@ -6,7 +6,7 @@ import { Container, Row, Col} from 'react-bootstrap'
 const Navbar = (props) => {
     return (
     <div>
-        <Container>
+        <Container fluid>
             <Row>
                 <Col>            
                     <div className={Styles.nav_flex}>

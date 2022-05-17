@@ -9,7 +9,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 const Main = (props) => {
     return (
     <div>
-        <Container style={{marginBottom: '30px'}}>
+        <Container fluid style={{marginBottom: '30px'}}>
             <Row>
                 <Col>
                     <div className={Styles.main_img}>

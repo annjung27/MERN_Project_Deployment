@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 const Instructors = () => {
     return (
     <div>
-        <Container>
+        <Container fluid>
             <Row>
                 <Col>
                     <div className={Styles.header}>

@@ -11,7 +11,7 @@ const ClassList = (props) => {
 
     return (
     <div>
-        <Container>
+        <Container fluid>
             <Row>
                 <Col>
                     <div className={Styles.header}>

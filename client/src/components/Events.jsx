@@ -6,7 +6,7 @@ import { Container, Row, Col} from 'react-bootstrap';
 const Events = () => {
 return (
     <div>
-        <Container>
+        <Container fluid>
             <Row>
                 <Col>
                     <div className={Styles.header}>

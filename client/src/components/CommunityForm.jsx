@@ -36,7 +36,7 @@ const CommunityForm = (props) => {
 
     return (
     <div>
-        <Container>            
+        <Container fluid>            
             <div className={Styles.form_container}>
                 <h1>Add your story</h1>
                 <form onSubmit={createStory}  className={Styles.form}>

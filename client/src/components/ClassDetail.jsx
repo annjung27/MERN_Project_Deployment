@@ -13,7 +13,7 @@ const ClassDetail = (props) => {
 
   return (
     <div>
-      <Container>
+      <Container fluid>
         <Row className={Styles.contentbox}>
           <Col>
             <div>
