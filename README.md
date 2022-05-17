@@ -1,6 +1,6 @@
 #  Project - "Yoga Together" 
 
-### <a href="http://52.8.190.104/"> Click to Veiw Website</a>
+### <a href="http://54.176.93.190/"> Click to Veiw Website</a>
 
 ## e-commerce website for virtual yoga class (Version 1)
 
