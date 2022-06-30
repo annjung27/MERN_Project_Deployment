@@ -15,7 +15,7 @@ Features (version 1)
 Features will be added in version 2. 
 -  login and registration with validation
 -  payment feature
--  Google API 
+-  Google map API 
 -  admin page to create class, instructors info, and managing enrollments.
 
 
